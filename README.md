@@ -1,1 +1,1 @@
-# besic-banking-system
+# basic-banking-system
